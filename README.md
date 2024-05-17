@@ -33,7 +33,7 @@ yarn install
 4. Copy '.env.example' and create '.env.local.file'
 
 ```bash
-cp .env .env.local
+cp .env.example .env.local
 ```
 
 ## Usuage
